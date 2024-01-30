@@ -1,0 +1,1 @@
+Apache Zookeeper and Paxos use Paxos for distributed locking.
